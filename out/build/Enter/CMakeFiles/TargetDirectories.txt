@@ -1,0 +1,5 @@
+C:/Users/Dell/Desktop/sfml_basics/out/build/Enter/CMakeFiles/game.dir
+C:/Users/Dell/Desktop/sfml_basics/out/build/Enter/CMakeFiles/game1.dir
+C:/Users/Dell/Desktop/sfml_basics/out/build/Enter/CMakeFiles/snake.dir
+C:/Users/Dell/Desktop/sfml_basics/out/build/Enter/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dell/Desktop/sfml_basics/out/build/Enter/CMakeFiles/ZERO_CHECK.dir

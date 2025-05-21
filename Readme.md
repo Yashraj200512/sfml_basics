@@ -9,7 +9,7 @@ in  CMakeLists.txt replace ( set(SFML_DIR "C:/Users/Dell/Desktop/SFML_VCPKG/vcpk
 cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 ```
 ```bash
-cmake --build build
+cmake --build build --config Release
 ```
 ## 2 Run(go to Debug or Release directory and run) //whichver you have
 - ./build/release/game.exe

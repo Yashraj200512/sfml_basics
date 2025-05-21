@@ -14,6 +14,10 @@ find_package(SFML 3.0 REQUIRED COMPONENTS System Window Graphics)
     # network
 
 add_executable(game main.cpp)
+add_executable(game1 tut1.cpp)
+add_executable(snake snake.cpp)
 
 # Link against the SFML imported targets
 target_link_libraries(game PRIVATE SFML::System  SFML::Window SFML::Graphics)
+target_link_libraries(game1 PRIVATE SFML::System  SFML::Window SFML::Graphics)
+target_link_libraries(snake PRIVATE SFML::System  SFML::Window SFML::Graphics)
