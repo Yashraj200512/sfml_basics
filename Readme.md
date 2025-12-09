@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # SFML Basics & Snake Game
 
 A collection of introductory **C++** projects using **SFML 3.0**. This repository contains basic window management examples, sprite manipulation, and a fully functional **Snake Game**.
@@ -24,7 +24,7 @@ A collection of introductory **C++** projects using **SFML 3.0**. This repositor
 ### 1. Install SFML via vcpkg
 If you haven't installed SFML yet, run the following commands in your terminal (Windows):
 
-```powershell
+````
 git clone [https://github.com/microsoft/vcpkg](https://github.com/microsoft/vcpkg)
 .\vcpkg\bootstrap-vcpkg.bat
 .\vcpkg\vcpkg install sfml
